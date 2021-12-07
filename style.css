@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+
+body{
+    align-items: center;
+    flex-flow: column;
+    background-color: rgba(255, 217, 0, 0.856);
+    display: flex;   
+}
+
+#fotoPokemon{
+    max-height:70vh;    
+}
+
+#nome{
+
+    font-weight: bold;
+    font-size: 60px;
+    font-family:  'Birthstone' , cursive;
+    color: rgb(0, 0, 0);
+}
+
